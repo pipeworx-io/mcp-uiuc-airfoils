@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-uiuc-airfoils",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "UIUC Airfoil Coordinates Database — fleet #3352.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "uiuc-airfoils",
     "gatewaySlug": "uiuc-airfoils",
-    "sourceHash": "v1-96bf7ae3a22b1b176ec0fd4fa9d9c5b16dbdbb0ed799b13f435636aa759abb88",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-4be0202b8cdbeaf53cecd08288b2a546dcd48622d6cc9da847b410ee5f7a9a20",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
